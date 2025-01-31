@@ -17,4 +17,4 @@
 
   
 <p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=your-github-w-rn&color=af5038&abbreviated=true&label=♱ ">
+  <img src="https://komarev.com/ghpvc/?username=your-github-w-rn&color=fdfcf8&abbreviated=true&label=♱ ">
