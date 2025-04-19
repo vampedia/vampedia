@@ -10,7 +10,7 @@
 " class="center">
 </p>
 <p align="center">
-<a href="https://vampedia.straw.page">strawpage</a> + <a href="https://steamcommunity.com/id/765611995103422/">steam</a>
+<a href="https://vampadia.straw.page">strawpage</a> + <a href="https://steamcommunity.com/id/765611995103422/">steam</a>
 </p>
 
 
