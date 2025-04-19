@@ -1,7 +1,7 @@
 # 
 
 <p align="center">
-<a href="https://vampedia.carrd.co/">carrd</a>
+<a href="[https://vampedia.carrd.co/](https://rentry.co/vampadia)">rentry</a>
 </p>
 </p>
 
